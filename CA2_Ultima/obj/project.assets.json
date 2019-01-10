@@ -12536,11 +12536,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\My_Downloads\\CA2_Ultima\\CA2_Ultima\\CA2_Ultima.csproj",
+      "projectUniqueName": "D:\\My_Downloads\\Test\\CA2_Ultima\\CA2_Ultima.csproj",
       "projectName": "CA2_Ultima",
-      "projectPath": "D:\\My_Downloads\\CA2_Ultima\\CA2_Ultima\\CA2_Ultima.csproj",
+      "projectPath": "D:\\My_Downloads\\Test\\CA2_Ultima\\CA2_Ultima.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\My_Downloads\\CA2_Ultima\\CA2_Ultima\\obj\\",
+      "outputPath": "D:\\My_Downloads\\Test\\CA2_Ultima\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

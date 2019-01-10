@@ -12,7 +12,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Pages\CSC\" />
     <Folder Include="Pages\IOT02\" />
     <Folder Include="Pages\IOT01\" />
   </ItemGroup>
